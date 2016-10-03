@@ -1,6 +1,6 @@
 # EC601-ios-App
 
-EC601
+EC601/n
 Homework2
 ios app
 BagTracker
